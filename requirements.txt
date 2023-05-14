@@ -1,0 +1,7 @@
+streamlit
+sklearn
+nltk
+fuzzywuzzy
+distance
+re
+contractions
