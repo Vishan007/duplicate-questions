@@ -3,4 +3,8 @@ sklearn
 nltk
 fuzzywuzzy
 distance
+<<<<<<< HEAD
 contractions
+=======
+contractions
+>>>>>>> ccbe55ed6ad290b8835a5d48aea7a98d8d64ae49
